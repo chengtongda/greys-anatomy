@@ -1,4 +1,10 @@
+/core/greys-core.iml
+/agent/greys-agent.iml
+/core/core.iml
+/agent/agent.iml
 /target
+/core/target
+/agent/target
 /.settings
 /.classpath
 /.project
@@ -6,5 +12,5 @@
 /.DS_Store
 =======
 /.idea
-/greys-anatomy.iml
->>>>>>> pr/8
+/greys.iml
+/nb-configuration.xml
